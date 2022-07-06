@@ -1,0 +1,33 @@
+#--------------------------------
+# 실습에 사용된 파이썬 라이브러리 버전
+#--------------------------------
+
+pip install jupyter==1.0.0
+
+pip install numpy==1.19.5
+
+pip install pandas==1.4.3
+
+pip install matplotlib==3.5.2
+
+pip install seaborn==0.11.2
+
+pip install scipy==1.8.1
+
+pip install opencv-python==4.6.0.66
+
+pip install opencv-contrib-python==4.6.0.66
+
+pip instal tensorflow==2.5.0
+
+pip install scikit-learn==1.1.1
+
+pip install mediapipe==0.8.10.1
+
+pip install nltk==3.7
+
+pip install konlpy==0.6.0
+
+pip install wordcloud==1.8.2.2
+
+
