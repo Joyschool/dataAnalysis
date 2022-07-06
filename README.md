@@ -10,7 +10,7 @@
 ### 1. 파이썬 설치
 www.python.org 
 
- - 설치할 파이썬 버전: 3.8.10 이상( 3.9.x 설치 권장)
+ - 설치할 파이썬 버전: 3.9.10 ( 3.8.10 이상 권장)
  - 설치시 주의사항: 
    Install 첫 페이지에서 [Add Python 3.9 to PATH] 옵션을 반드시 체크표시 해준다.
   
@@ -28,7 +28,7 @@ www.python.org
 * matplotlib        > pip install matplotlib
 * seaborn           > pip install seaborn
 * scikit-learn      > pip install scikit-learn
-* tensorflow        > pip install tensroflow==2.3.0
+* tensorflow        > pip install tensroflow==2.5.0
 * opencv            > pip install opencv-python     
                     > pip install opencv-contrib-python
 * 그 외 파이썬 라이브러리는 필요할 때마다 설치
